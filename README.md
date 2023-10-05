@@ -1,2 +1,3 @@
-# Pneumonia-Detection
-Using Kaggle chest xray images
+# PPneumonia Detection from Chest X-Ray Images: Kaggle Contest
+
+## Overview ##
